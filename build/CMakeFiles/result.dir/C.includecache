@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csn/Projects/Ubuntu/C++/CPP_Base/day01/04C语言中的三目运算符.c
+stdio.h
+-
+stddef.h
+-
+math.h
+-
+

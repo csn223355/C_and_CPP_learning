@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/result.dir/CPP_Base/day01/04C语言中的三目运算符.c.o  -o result 
