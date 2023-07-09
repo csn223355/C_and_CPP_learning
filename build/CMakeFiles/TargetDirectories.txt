@@ -1,3 +1,0 @@
-/home/csn/Projects/C_and_CPP_learning/build/CMakeFiles/rebuild_cache.dir
-/home/csn/Projects/C_and_CPP_learning/build/CMakeFiles/edit_cache.dir
-/home/csn/Projects/C_and_CPP_learning/build/CMakeFiles/result.dir

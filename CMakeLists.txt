@@ -22,5 +22,5 @@ set (CMAKE_CXX_FLAGS  "${CMAKE_CXX_FLAGS} -g")
 # set(SRC_LIST leetcode/704.cpp)
 # 可执行程序 result
 # add_executable(result CPP_Base/day01/04三目运算符.cpp)
-add_executable(result CPP_Base/day01/05const基础用法.cpp)
-# target_link_libraries(result ${OpenCV_LIBS})
+add_executable(result CPP_Base/day01/06引用的基本概念.cpp)
+target_link_libraries(result ${OpenCV_LIBS})
