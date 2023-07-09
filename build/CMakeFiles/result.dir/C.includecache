@@ -6,8 +6,10 @@
 
 #IncludeRegexTransform: 
 
-/home/csn/Projects/Ubuntu/C++/CPP_Base/day01/04C语言中的三目运算符.c
+/home/csn/Projects/C_and_CPP_learning/CPP_Base/day01/05C语言中的const.c
 stdio.h
+-
+string.h
 -
 stddef.h
 -

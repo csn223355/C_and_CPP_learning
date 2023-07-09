@@ -1,17 +1,16 @@
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "C"
+  "CXX"
   )
 # The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_C
-  "/home/csn/Projects/Ubuntu/C++/CPP_Base/day01/04C语言中的三目运算符.c" "/home/csn/Projects/Ubuntu/C++/build/CMakeFiles/result.dir/CPP_Base/day01/04C语言中的三目运算符.c.o"
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/csn/Projects/C_and_CPP_learning/CPP_Base/day01/05const基础用法.cpp" "/home/csn/Projects/C_and_CPP_learning/build/CMakeFiles/result.dir/CPP_Base/day01/05const基础用法.cpp.o"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
-set(CMAKE_C_TARGET_INCLUDE_PATH
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/local/include/opencv4"
-  "/usr/local/lynxi"
   "../include"
   )
 

@@ -1,1 +1,1 @@
-/usr/bin/cc   -rdynamic CMakeFiles/result.dir/CPP_Base/day01/04C语言中的三目运算符.c.o  -o result 
+/usr/bin/c++   -g  -rdynamic CMakeFiles/result.dir/CPP_Base/day01/05const基础用法.cpp.o  -o result 

@@ -1,6 +1,15 @@
-#include<stdio.h>
-#include<stddef.h>
-#include<math.h>
+/**
+ *@file 04C语言中的三目运算符.c
+ *@author chenshining
+ *@version v1.0
+ *@date 2023-07-08
+ */
+#include <stdio.h>
+#include <string.h>
+#include <stddef.h>
+#include <math.h>
+
+
 
 /**
  * 在C语言中三目运算符的使用

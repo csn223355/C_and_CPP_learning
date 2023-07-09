@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/csn/Projects/Ubuntu/C++
+CMAKE_SOURCE_DIR = /home/csn/Projects/C_and_CPP_learning
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/csn/Projects/Ubuntu/C++/build
+CMAKE_BINARY_DIR = /home/csn/Projects/C_and_CPP_learning/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/csn/Projects/Ubuntu/C++/build/CMakeFiles /home/csn/Projects/Ubuntu/C++/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/csn/Projects/C_and_CPP_learning/build/CMakeFiles /home/csn/Projects/C_and_CPP_learning/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/csn/Projects/Ubuntu/C++/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/csn/Projects/C_and_CPP_learning/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,32 +123,32 @@ result/fast:
 	$(MAKE) -f CMakeFiles/result.dir/build.make CMakeFiles/result.dir/build
 .PHONY : result/fast
 
-CPP_Base/day01/04C语言中的三目运算符.o: CPP_Base/day01/04C语言中的三目运算符.c.o
+CPP_Base/day01/05const基础用法.o: CPP_Base/day01/05const基础用法.cpp.o
 
-.PHONY : CPP_Base/day01/04C语言中的三目运算符.o
+.PHONY : CPP_Base/day01/05const基础用法.o
 
 # target to build an object file
-CPP_Base/day01/04C语言中的三目运算符.c.o:
-	$(MAKE) -f CMakeFiles/result.dir/build.make CMakeFiles/result.dir/CPP_Base/day01/04C语言中的三目运算符.c.o
-.PHONY : CPP_Base/day01/04C语言中的三目运算符.c.o
+CPP_Base/day01/05const基础用法.cpp.o:
+	$(MAKE) -f CMakeFiles/result.dir/build.make CMakeFiles/result.dir/CPP_Base/day01/05const基础用法.cpp.o
+.PHONY : CPP_Base/day01/05const基础用法.cpp.o
 
-CPP_Base/day01/04C语言中的三目运算符.i: CPP_Base/day01/04C语言中的三目运算符.c.i
+CPP_Base/day01/05const基础用法.i: CPP_Base/day01/05const基础用法.cpp.i
 
-.PHONY : CPP_Base/day01/04C语言中的三目运算符.i
+.PHONY : CPP_Base/day01/05const基础用法.i
 
 # target to preprocess a source file
-CPP_Base/day01/04C语言中的三目运算符.c.i:
-	$(MAKE) -f CMakeFiles/result.dir/build.make CMakeFiles/result.dir/CPP_Base/day01/04C语言中的三目运算符.c.i
-.PHONY : CPP_Base/day01/04C语言中的三目运算符.c.i
+CPP_Base/day01/05const基础用法.cpp.i:
+	$(MAKE) -f CMakeFiles/result.dir/build.make CMakeFiles/result.dir/CPP_Base/day01/05const基础用法.cpp.i
+.PHONY : CPP_Base/day01/05const基础用法.cpp.i
 
-CPP_Base/day01/04C语言中的三目运算符.s: CPP_Base/day01/04C语言中的三目运算符.c.s
+CPP_Base/day01/05const基础用法.s: CPP_Base/day01/05const基础用法.cpp.s
 
-.PHONY : CPP_Base/day01/04C语言中的三目运算符.s
+.PHONY : CPP_Base/day01/05const基础用法.s
 
 # target to generate assembly for a file
-CPP_Base/day01/04C语言中的三目运算符.c.s:
-	$(MAKE) -f CMakeFiles/result.dir/build.make CMakeFiles/result.dir/CPP_Base/day01/04C语言中的三目运算符.c.s
-.PHONY : CPP_Base/day01/04C语言中的三目运算符.c.s
+CPP_Base/day01/05const基础用法.cpp.s:
+	$(MAKE) -f CMakeFiles/result.dir/build.make CMakeFiles/result.dir/CPP_Base/day01/05const基础用法.cpp.s
+.PHONY : CPP_Base/day01/05const基础用法.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... result"
-	@echo "... CPP_Base/day01/04C语言中的三目运算符.o"
-	@echo "... CPP_Base/day01/04C语言中的三目运算符.i"
-	@echo "... CPP_Base/day01/04C语言中的三目运算符.s"
+	@echo "... CPP_Base/day01/05const基础用法.o"
+	@echo "... CPP_Base/day01/05const基础用法.i"
+	@echo "... CPP_Base/day01/05const基础用法.s"
 .PHONY : help
 
 
