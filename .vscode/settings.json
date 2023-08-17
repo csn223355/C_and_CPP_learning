@@ -3,6 +3,15 @@
         "stddef.h": "c",
         "stdio.h": "c",
         "iostream": "cpp",
-        "dense": "cpp"
+        "dense": "cpp",
+        "string": "cpp",
+        "cmath": "cpp",
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "regex": "cpp"
     }
 }
